@@ -1,0 +1,16 @@
+.reviewsList {
+    margin-top: 20px;
+    padding: 0 40px;
+    list-style-type: disc;
+}
+
+.reviewsList li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.author {
+    margin-bottom: 10px;
+
+    font-size: 18px;
+    font-weight: 700;
+}

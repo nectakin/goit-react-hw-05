@@ -1,0 +1,28 @@
+.searchForm {
+    height: 30px;
+}
+
+.searchForm input {
+    display: inline-block;
+
+    min-width: 350px;
+    height: 100%;
+}
+
+.searchForm button {
+    height: 100%;
+}
+
+.moviesList {
+    margin-top: 20px;
+    padding: 0 40px;
+    list-style-type: disc;
+}
+
+.moviesList li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.moviesList a {
+    text-decoration: underline;
+}

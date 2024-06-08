@@ -1,0 +1,14 @@
+a {
+    text-decoration: underline;
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.moviesList {
+    margin-top: 10px;
+    padding-left: 20px;
+    list-style-type: disc;
+}
